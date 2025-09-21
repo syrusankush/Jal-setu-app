@@ -16,10 +16,10 @@ Tech Stack:
 
 Frontend: React Native (Expo CLI)
 
-Backend: Node.js, Express.js
+Backend: Node.js, Express.js 
 
 Database: MongoDB
 
 Other: UPI Integration, GIS Mapping
 
-Use Case: Designed to assist rural administrations in ensuring reliable water supply, transparent fund management, and smooth maintenance operations.
+Use Case: Designed to assist rural administrations in ensuring reliable water supply, transparent fund management, and smooth maintenance operations
